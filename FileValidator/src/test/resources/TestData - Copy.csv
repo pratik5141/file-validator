@@ -1,0 +1,6 @@
+item_id,item_name,item_description,item_type,item_price,item_manufactured_date,item_expiry_date,item_qty
+1,dell Laptop,Dell 16GB laptop,laptop,45000,12/12/2020,12/12/2032,5
+2,HP$ Laptop,HP 16GB laptop,gadet,55000,12/12/2020,12/12/2032,6
+3,Leno*vo Laptop,Lenovo 16GB laptop,laptop,-35000,12/12/2020,12/12/2032,7
+4,Iphone,64GB iphone,phone,25000,12/12/2020,12/12/32,8
+5,SamsungPhone,32GB galaxy phone,phone,15000,12/12/2020,12/12/2032,0
